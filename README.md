@@ -6,8 +6,6 @@
 [![GitHub issues](https://img.shields.io/github/issues/farahkouki/Code-Review-GPT?style=for-the-badge)](https://github.com/farahkouki/Code-Review-GPT/issues)
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
 
-![Code Review GPT Banner](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
-
 ---
 
 ## 💡 Description
